@@ -1,0 +1,6 @@
+C:\Users\Rilok\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.dll
+C:\Users\Rilok\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Rilok\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Rilok\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Rilok\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.dll
+C:\Users\Rilok\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
