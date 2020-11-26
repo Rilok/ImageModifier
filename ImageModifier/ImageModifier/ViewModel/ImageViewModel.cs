@@ -8,7 +8,9 @@ namespace ImageModifier.ViewModel
     
     public class ImageViewModel
     {
-        private ImageFile img = new ImageFile(@"C:\Users\\Rilok\\source\\repos\\ImageModifier\\ImageModifier\\Images\\placeholder.png");
+        private ImageFile img = new ImageFile($@"{System.IO.Directory
+            .GetParent(Environment.CurrentDirectory)
+            .Parent.FullName}\Images\placeholder.png");
         public string Directory
         {
             get
